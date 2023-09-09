@@ -5,6 +5,8 @@
 
 [functions]
   included_files = [
+    "node_modules/surgio/**",
+    "node_modules/@surgio/**",
     "provider/**",
     "template/**",
     "*.js",
